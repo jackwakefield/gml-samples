@@ -1,0 +1,6 @@
+/build
+/deps
+/list_model
+gml_gen*
+*.qrc
+
