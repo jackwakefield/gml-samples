@@ -1,0 +1,6 @@
+/build
+/deps
+/gallery
+gml_gen*
+*.qrc
+
