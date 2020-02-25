@@ -34,9 +34,9 @@ import (
 	"time"
 
 	"github.com/desertbit/gml"
-	"github.com/desertbit/gml/samples/signals_slots/api"
-	"github.com/desertbit/gml/samples/signals_slots/testy"
-	"github.com/desertbit/gml/samples/signals_slots/testy/b"
+	"github.com/desertbit/gml-samples/signals_slots/api"
+	"github.com/desertbit/gml-samples/signals_slots/testy"
+	"github.com/desertbit/gml-samples/signals_slots/testy/b"
 )
 
 type c b.B
